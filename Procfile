@@ -1,1 +1,1 @@
-python3 compliment_bot.py
+python3 compliment_bot_with_token.py
