@@ -1,1 +1,2 @@
-worker: python3 compliment_bot.py
+worker: python3 compliment_bot_with_token.py
+
